@@ -1,0 +1,8 @@
+$primary-color: #000000;
+$background-color: #dddddd;
+
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
